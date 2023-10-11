@@ -1,0 +1,61 @@
+/* Reset some default styles */
+body, h1, h2, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #87CEEB; /* Light blue for the sky background */
+    color: #333; /* Dark text color */
+}
+
+header {
+    background-color: #42A5F5; /* Blue header background */
+    color: #fff; /* White text color */
+    text-align: center;
+    padding: 10px;
+}
+
+nav {
+    background-color: #2196F3; /* Slightly darker blue for navigation */
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff; /* White content background */
+}
+
+article {
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #42A5F5; /* Blue heading color */
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #42A5F5; /* Blue footer background */
+    color: #fff;
+}
