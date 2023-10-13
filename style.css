@@ -46,7 +46,10 @@ main {
 }
 
 article {
-    margin-bottom: 20px;
+    margin: 10px auto;
+    padding: 20px;
+    width: 90%;
+    border: 1px solid black;
 }
 
 h2 {
