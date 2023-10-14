@@ -65,7 +65,7 @@ img {
 }
 
 h2 {
-    color: #42A5F5; /* Blue heading color */
+    color: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(206,255,0,1) 35%, rgba(7,247,220,1) 63%, rgba(255,0,232,1) 100%);
 }
 
 footer {
