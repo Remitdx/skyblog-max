@@ -59,19 +59,22 @@ img {
 }
 
 .comments {
+    background: #f2f2f2;
     border: 1px solid #f5f5f5;
     padding: 12px;
 }
 
 .comments p {
-    background: #f2f2f2;
-    margin: 4px 0;
+    background: #fff;
+    margin: 6px 0;
     border: 1px solid #f5f5f5;
     border-radius: 4px;
 }
 
 .yours {
     background: #fff;
+    display: flex;
+    justify-content: between;
 }
 
 .red {
@@ -80,6 +83,18 @@ img {
 
 .blue{
     color: #0000ff;
+}
+
+.green {
+    color: #0bb000;
+}
+
+.skyblue {
+    color: #07f7dc;
+}
+
+.purple {
+    color: #b001a6;
 }
 
 .left {
