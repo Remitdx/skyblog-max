@@ -123,6 +123,7 @@ img {
     background: #42A5F5;
     text-align: center;
     padding: 6px 18px;
+    margin-left: 24px;
     cursor: pointer;
     border-radius: 4px;
 }
