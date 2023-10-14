@@ -68,6 +68,7 @@ img {
 .comments p {
     background: #fff;
     border-radius: 4px;
+    margin: 6px 0;
 }
 
 .yours {
@@ -83,6 +84,7 @@ img {
 
 .yours p {
     padding: 0;
+    margin: 0;
 }
 
 .red {
