@@ -67,7 +67,7 @@ img {
 .comments p {
     background: #fff;
     margin: 6px 0;
-    border: 1px solid #f5f5f5;
+    padding: 4px 6px;
     border-radius: 4px;
 }
 
@@ -87,6 +87,10 @@ img {
 
 .green {
     color: #0bb000;
+}
+
+.grey {
+    color: #989898;
 }
 
 .skyblue {
