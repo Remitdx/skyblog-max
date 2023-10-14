@@ -74,11 +74,11 @@ img {
 .yours {
     background: #fff;
     display: flex;
+    justify-content: space-between;
     align-items: center;
 }
 
 .yours span {
-    margin-right: 24px;
     color: #fff
 }
 
